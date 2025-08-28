@@ -1,5 +1,8 @@
 # BeEF + XSS mot DVWA — lab
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Lab Only](https://img.shields.io/badge/Scope-Lab%20Only-blue)
+
 En fiktiv, lukket lab som demonstrerer hvordan en **refleksiv XSS** i DVWA kan brukes til å **hooke en nettleser** i **BeEF**. Deretter inspiseres klientdata i BeEF-panelet for å illustrere risikoen.
 
 > **Ansvar/Etikk:** Dette er kun demonstrasjon i eget labmiljø. Ikke test mot systemer du ikke eier eller har eksplisitt tillatelse til. Maskér alltid sensitive verdier (f.eks. PHPSESSIONID) i skjermbilder.
